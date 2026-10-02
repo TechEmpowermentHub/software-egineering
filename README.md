@@ -1,5 +1,9 @@
 # Intro to Computer programing and Software Engineering
 
+```text
+A 3-month software engineering foundation program, followed by specialization tracks.
+```
+
 ## About the Course
 
 Intro to Computer programming and Software Engineering is a free, practical, 12 weeks course for people who want to learn how to program computers and maintain such programs, and everything in-between
