@@ -9,3 +9,8 @@ Write a program that stores a person's:
 - city
 
 in variables and then prints the information.
+
+## Requirements
+
+- Folder: teh-software-engineering/module-1
+- File: 4-using-variables.py

@@ -11,3 +11,8 @@ Enter your age: 20
 In 10 years, you will be 30.
 
 Your program should convert the user's input into a number before performing the calculation.
+
+## Requirements
+
+- Folder: teh-software-engineering/module-1
+- File: 8-type-conversion.py

@@ -86,6 +86,10 @@ By the end of the week, students should be able to:
     - Review code quality
     - Identify bugs and improvements
 
+## Exercises
+
+Do the exercises in the [Exercises folder](./exercises/) in order, after which you are fully equipped to do this module's project
+
 ## Project
 
 Personal Expense Calculator — Build a command-line program that asks the user for their available money and several expenses, calculates the total spent and remaining balance, and displays a simple summary. Students should first describe the algorithm before writing code.

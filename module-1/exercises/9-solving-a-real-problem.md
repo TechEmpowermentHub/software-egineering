@@ -22,3 +22,8 @@ Before writing the Python code, identify:
 Input:
 Processing:
 Output:
+
+## Requirements
+
+- Folder: teh-software-engineering/module-1
+- File: 9-solving-a-real-problem.py

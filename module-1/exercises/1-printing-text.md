@@ -10,6 +10,7 @@ Hello world!
 
 ## Requirements
 
-- Create a Python file named 1-printing-text.py
+- Folder: teh-software-engineering/module-1
+- File: 1-printing-text.py
 - Use Python's `print()`
 - Run the program from the terminal

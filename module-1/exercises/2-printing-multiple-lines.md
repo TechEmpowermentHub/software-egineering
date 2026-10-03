@@ -10,4 +10,8 @@ Name: Kelechi
 Age: 100
 Country: Nigeria
 
-Use `print()` to produce the output
+## Requirements
+
+- Folder: teh-software-engineering/module-1
+- File: 2-printing-multiple-lines.py
+- Use `print()` to produce the output

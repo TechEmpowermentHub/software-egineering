@@ -10,3 +10,8 @@ Product:
 Quotient:
 
 Test your program with several different pairs of numbers
+
+## Requirements
+
+- Folder: teh-software-engineering/module-1
+- File: 7-multiple-arithmetic-operations.py

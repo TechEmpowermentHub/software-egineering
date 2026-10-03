@@ -12,3 +12,8 @@ Enter the second number: 15
 Sum: 35
 
 the program should work with different numbers.
+
+## Requirements
+
+- Folder: teh-software-engineering/module-1
+- File: 6-taking-numbers-as-input.py

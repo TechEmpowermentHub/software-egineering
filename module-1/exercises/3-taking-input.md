@@ -11,3 +11,7 @@ What is your name? Kelechi
 Your name is Kelechi.
 
 The program should work for any name entered by the user.
+
+## Requirements
+- Folder: teh-software-engineering/module-1
+- File 3-taking-input.py
