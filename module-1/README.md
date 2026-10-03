@@ -37,7 +37,10 @@ By the end of the week, students should be able to:
     - comparison operators
     - input()
     - type conversion (int()
-    - float(), str()), basic expressions. Problem solving: inputs → processing → outputs, algorithms, pseudocode
+    - float(), str())
+    - basic expressions. Problem solving: inputs → processing → outputs
+    - algorithms
+    - pseudocode
     - breaking problems into steps.
 
 ## Activities

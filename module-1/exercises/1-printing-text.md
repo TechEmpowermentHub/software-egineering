@@ -10,6 +10,6 @@ Hello world!
 
 ## Requirements
 
-- Create a Python file named printing-text.py
+- Create a Python file named 1-printing-text.py
 - Use Python's `print()`
 - Run the program from the terminal
