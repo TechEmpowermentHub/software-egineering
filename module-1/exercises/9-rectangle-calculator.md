@@ -1,4 +1,4 @@
-# 10. Rectangle Calculator
+# 9. Rectangle Calculator
 
 **Goal:** Combine several concepts into one small program.
 

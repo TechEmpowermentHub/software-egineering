@@ -6,9 +6,9 @@ Your submission should contain:
 
 module-1/
 ├── exercises/
-│   ├── exercise-1.py
-│   ├── exercise-2.py
-│   ├── exercise-3.py
+│   ├── 1-printing-text.py
+│   ├── 2-printing-multiple-lines.py
+│   ├── 3-taking-input.py
 │   └── ...
 │
 └── project/
