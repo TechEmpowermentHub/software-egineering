@@ -211,3 +211,33 @@ The focus is not on building a real banking system. The focus is on using contro
                 │           │
                 └──→ Menu   END
 ```
+
+## Progression
+
+```text
+MODULE 1
+Sequence
+│
+├── Input
+├── Variables
+├── Data types
+├── Expressions
+└── Basic problem solving
+        ↓
+MODULE 2
+Control flow
+│
+├── Conditions
+├── Boolean logic
+├── Decisions
+├── Loops
+└── Program tracing
+        ↓
+MODULE 3
+Decomposition
+│
+├── Functions
+├── Collections
+├── Modules
+└── More structured programs
+```

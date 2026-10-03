@@ -181,3 +181,39 @@ The program should allow the user to:
 * Exit the program
 
 Students should first identify the information the program needs to store, decide how that information should be represented, and break the program into functions before writing the Python code.
+
+```text
+WEEK 1 — SEQUENCE
+
+Input
+  ↓
+Process
+  ↓
+Output
+
+
+WEEK 2 — CONTROL FLOW
+
+Input
+  ↓
+Decision ─────┐
+  ↓           │
+Process       │
+  ↓           │
+Repeat ←──────┘
+
+
+WEEK 3 — STRUCTURE
+
+             Program
+                │
+       ┌────────┼────────┐
+       ↓        ↓        ↓
+   Function  Function  Function
+       │        │        │
+       └────────┼────────┘
+                ↓
+            Collections
+          ┌─────┴─────┐
+        Lists      Dictionaries
+```
