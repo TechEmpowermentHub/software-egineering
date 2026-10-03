@@ -53,9 +53,10 @@ This course is a prerequisite for specializing in our other courses which includ
 
 ## How to take the course
 
-
-## Syllabus
-
+1. Read the readme file for each module
+2. Go through the resources
+3. Do the exercises
+4. Do the project
 
 ## Automated Checks
 
@@ -68,7 +69,5 @@ Your submission will be automatically checked for:
 - Arithmetic correctness
 - Project functionality
 
-Automated checks verify functional requirements. They do not replace
+**NOTE:** Automated checks verify functional requirements. They do not replace
 human review of your code, documentation, or understanding.
-
-

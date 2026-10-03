@@ -19,5 +19,3 @@ Problem decomposition
 Small real-world problems
   ↓
 PROJECT
-
-That's much better than having 10 unrelated beginner Python questions. The student can actually see why they're doing each exercise.
