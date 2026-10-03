@@ -57,3 +57,18 @@ This course is a prerequisite for specializing in our other courses which includ
 ## Syllabus
 
 
+## Automated Checks
+
+Your submission will be automatically checked for:
+
+- Required files
+- Program execution
+- Expected output
+- Input handling
+- Arithmetic correctness
+- Project functionality
+
+Automated checks verify functional requirements. They do not replace
+human review of your code, documentation, or understanding.
+
+
